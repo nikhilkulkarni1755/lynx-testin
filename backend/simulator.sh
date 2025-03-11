@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# queue
+# user should be able to add their app here.
+
 # Step 1: Reset simulator memory
 echo "Resetting simulator memory..."
 xcrun simctl erase all
